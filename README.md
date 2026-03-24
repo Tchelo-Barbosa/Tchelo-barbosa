@@ -13,7 +13,7 @@ Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Des
 
 ### ⚙️ Tecnologias e Ferramentas:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,C++,git,github,vscode,C#" />
+  <img src="https://skillicons.dev/icons?i=js,html,git,github,vscode" />
 </p>
 
 > *"A tecnologia move o mundo, mas a curiosidade move o desenvolvedor."*
