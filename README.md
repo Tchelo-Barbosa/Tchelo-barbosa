@@ -2,47 +2,39 @@
 
 ### 🚀 Estudante de Desenvolvimento de Sistemas @ SENAI
 
-Seja bem-vindo ao meu perfil! Sou um entusiasta da tecnologia em constante aprendizado, focado em transformar problemas em soluções digitais eficientes e elegantes.
+Sou um entusiasta da tecnologia atualmente mergulhado no curso **Técnico de Desenvolvimento de Sistemas no SENAI**. Estou focado em construir uma base sólida em lógica de programação, arquitetura de sistemas e desenvolvimento de soluções modernas.
 
 ---
 
-## 🎓 Sobre Mim
+### 🛠️ No que estou trabalhando no momento:
+- 📚 Estudando **Lógica de Programação** e **Estrutura de Dados**.
+- 💻 Desenvolvendo projetos práticos no ambiente do SENAI.
+- 🌐 Explorando o ecossistema de desenvolvimento (Front-end e Back-end).
 
-- 📚 Atualmente cursando **Técnico em Desenvolvimento de Sistemas** no **SENAI**.
-- 🛠️ Focado em aprender as melhores práticas de Clean Code e arquitetura de software.
-- 💡 Buscando oportunidades para contribuir em projetos Open Source e estágios na área.
-- 💞️ Adoro colaborar em equipe e aprender novas stacks.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-Para construir minhas aplicações, utilizo as seguintes tecnologias:
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 Estatísticas do GitHub
-
+### ⚙️ Tecnologias e Ferramentas:
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://skillicons.dev/icons?i=js,html,C++,git,github,vscode,C#" />
+</p>
+
+> *"A tecnologia move o mundo, mas a curiosidade move o desenvolvedor."*
+
+---
+
+### 📊 Estatísticas do GitHub:
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&langs_count=7&theme=dracula" />
 </p>
 
 ---
 
-## 📫 Vamos nos conectar?
+### 📫 Como me encontrar:
+<p align="left">
+<a href="mailto:seu-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</p>
 
-Se quiser bater um papo sobre tecnologia ou desenvolvimento, me encontre em:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINK-AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 <!--
 **Tchelo-Barbosa/Tchelo-barbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
