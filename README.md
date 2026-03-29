@@ -29,5 +29,13 @@ focado em continuar a evoluir racionalmente
  ##
 
  ### É isso :>
+ <div> 
+  
+ 
+ <a href="https://discord.gg/6ACSeNNB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ </a> 
+  
+</div>
+
 
  ![tenor](https://github.com/user-attachments/assets/0f3c1e09-ebb2-4684-a43e-a74794e9a1fa)
