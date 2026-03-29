@@ -6,7 +6,7 @@
 
 Estou aprendendo altas paradas tecnologicas nos estudos
 
-100% dedicado a melhorar minhas habilidades em desenvolvimento de sistema 
+100% dedicado a melhorar minhas habilidades em desenvolvimento de sistemas 
 
 focado em continuar a evoluir racionalmente
 ##
