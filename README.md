@@ -1,6 +1,6 @@
 # Tchelo
 
-### **Estudante do Senai**
+### _**Estudante do Senai**_
 ##
 
 
@@ -11,24 +11,24 @@ Estou aprendendo altas paradas tecnologicas nos estudos
 focado em continuar a evoluir racionalmente
 ##
 
-### O que estou aprendendo?
+### _O que estou aprendendo?_
 
- ARI: Redes com IoT 
+* ARI: Redes com IoT 
  
- LER: Levantamento de Requisitos
+* LER: Levantamento de Requisitos
  
- LOPAL: Lógica de Programação e Algoritmos
+* LOPAL: Lógica de Programação e Algoritmos
  
- SOP: Sistemas Operacionais
+* SOP: Sistemas Operacionais
  ##
 
-### minhas estatisticas no GitHub!
+### _minhas estatisticas no GitHub!_
 
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tchelo-Barbosa&theme=github_dark" alt="My statistics" />
  
  ##
 
- ### É isso :>
+ ### _É isso :>_
  <div> 
   
  
