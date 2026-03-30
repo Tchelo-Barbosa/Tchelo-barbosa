@@ -1,6 +1,6 @@
-# Tchelo
+# $\color{red}{\text {Tchelo}}$ 
 
-### _**Estudante do Senai**_
+>_**Estudante do Senai**_
 ##
 
 
@@ -11,7 +11,7 @@ Estou aprendendo altas paradas tecnologicas nos estudos
 focado em continuar a evoluir racionalmente
 ##
 
-### _O que estou aprendendo?_
+### $\color{red}{\text {O que estou aprendendo?}}$  
 
 * ARI: Redes com IoT 
  
@@ -22,7 +22,7 @@ focado em continuar a evoluir racionalmente
 * SOP: Sistemas Operacionais
  ##
 
-### _minhas estatisticas no GitHub!_
+###  $\color{red}{\text {minhas estatisticas no GitHub!}}$ 
 
 
 
@@ -31,7 +31,7 @@ focado em continuar a evoluir racionalmente
  
  ##
 
- ### _É isso :>_
+ ### $\color{red}{\text {É isso :>}}$
  <div> 
   
  
