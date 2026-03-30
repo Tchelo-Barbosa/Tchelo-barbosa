@@ -24,6 +24,9 @@ focado em continuar a evoluir racionalmente
 
 ### _minhas estatisticas no GitHub!_
 
+
+
+
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tchelo-Barbosa&theme=github_dark" alt="My statistics" />
  
  ##
