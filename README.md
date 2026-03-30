@@ -25,10 +25,10 @@ focado em continuar a evoluir racionalmente
 ###  $\color{red}{\text {minhas estatisticas no GitHub!}}$ 
 
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tchelo-Barbosa&theme=Dainty&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
-
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tchelo-Barbosa&theme=github_dark" alt="My statistics" />
- 
  ##
 
  ### $\color{red}{\text {É isso :>}}$
