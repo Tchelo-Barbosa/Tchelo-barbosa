@@ -1,4 +1,5 @@
-# $\color{red}{\text {Tchelo}}$ 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8C1414&width=435&lines=seja+bem+vindo+ao+meu+perfil;Tchelo)](https://git.io/typing-svg)
+
 
 >_**Estudante do Senai**_
 ##
