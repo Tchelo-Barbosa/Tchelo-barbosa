@@ -42,4 +42,5 @@ focado em continuar a evoluir racionalmente
 </div>
 
 
- ![tenor](https://github.com/user-attachments/assets/0f3c1e09-ebb2-4684-a43e-a74794e9a1fa)
+![soul-eater-crona](https://github.com/user-attachments/assets/e45e46d9-b4da-4a5b-a68f-63d6a8551766)
+
