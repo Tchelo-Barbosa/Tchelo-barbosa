@@ -1,4 +1,5 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8C1414&width=435&lines=seja+bem+vindo+ao+meu+perfil;Tchelo)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8C1414&width=435&lines=seja+bem+vindo+ao+meu+perfil;Tchelo)](https://git.io/typing-svg) ![soul-eater-crona](https://github.com/user-attachments/assets/670c6ac0-50fb-4ed9-877b-4fe89c0af5eb)
+
 
 
 >_**Estudante do Senai**_
@@ -14,7 +15,7 @@ focado em continuar a evoluir racionalmente
 
 ### $\color{red}{\text {O que estou aprendendo?}}$  
 
-* ARI: Redes com IoT 
+* ARI: Redes com IoT                                           
  
 * LER: Levantamento de Requisitos
  
@@ -42,5 +43,6 @@ focado em continuar a evoluir racionalmente
 </div>
 
 
-![soul-eater-crona](https://github.com/user-attachments/assets/e45e46d9-b4da-4a5b-a68f-63d6a8551766)
+![soul-eater-maka](https://github.com/user-attachments/assets/d4de9536-b281-4ef4-8806-f17d3c52b4c6)
+
 
