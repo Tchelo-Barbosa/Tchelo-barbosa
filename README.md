@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8C1414&width=435&lines=seja+bem+vindo+ao+meu+perfil;Tchelo)](https://git.io/typing-svg) ![soul-eater-crona](https://github.com/user-attachments/assets/670c6ac0-50fb-4ed9-877b-4fe89c0af5eb)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8C1414&width=435&lines=seja+bem+vindo+ao+meu+perfil;Tchelo)](https://git.io/typing-svg)        
 
 
 
