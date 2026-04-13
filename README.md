@@ -43,6 +43,7 @@ focado em continuar a evoluir racionalmente
 </div>
 
 
-![soul-eater-maka](https://github.com/user-attachments/assets/d4de9536-b281-4ef4-8806-f17d3c52b4c6)
+![anime-pout](https://github.com/user-attachments/assets/fe2c0bea-db77-4603-8dee-cdcf6e90cfdc)
+
 
 
