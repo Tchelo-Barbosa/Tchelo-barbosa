@@ -15,13 +15,13 @@ focado em continuar a evoluir racionalmente
 
 ### $\color{red}{\text {O que estou aprendendo?}}$  
 
-* ARI: Redes com IoT                                           
+* LIMA: Linguagem de entrada                                           
  
-* LER: Levantamento de Requisitos
+* PWBE1: Backend
  
-* LOPAL: Lógica de Programação e Algoritmos
+* BCD: Banco de dados
  
-* SOP: Sistemas Operacionais
+* PS1: Projetos
  ##
 
 ###  $\color{red}{\text {minhas estatisticas no GitHub!}}$ 
